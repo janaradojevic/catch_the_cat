@@ -1,4 +1,4 @@
-#Catch the cat
+# Catch the cat
 Pronadjite macku na ovoj sceni i uhvatite je pokeloptom!
 
 U ovom programu su korisceni:
